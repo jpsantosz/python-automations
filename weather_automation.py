@@ -7,7 +7,7 @@ from translate import Translator
 
 translator = Translator(to_lang="pt")
 
-chave_api = 'bf106d90ee59f0a64ee2e79bd46e4684'
+chave_api = '*******************************'
 
 url_api = 'https://api.openweathermap.org/data/2.5/weather'
 
