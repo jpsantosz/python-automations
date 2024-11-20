@@ -13,6 +13,8 @@ Este repositório foi criado com o objetivo de:
 
 Atualmente, o repositório inclui os seguintes scripts:
 - **Consulta ao Clima:** Um script que usa a API do OpenWeather para obter informações sobre o clima de uma cidade.
+- **Geração de QR Code:** Um script que gera QR codes a partir de um texto inserido pelo usuário. 
+- **Cálculo de Finanças Pessoais** Um script que ajuda a organizar suas finanças com base no seu salário. Ele calcula e exibe os valores divididos entre "Gastos Fixos", "Investimentos" e "Lazer", apresentando os valores em formato de gráfico.
 - ...
 
 ---
