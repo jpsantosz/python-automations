@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Lê um arquivo CSV chamado "advertising.csv" e armazena os dados em um DataFrame.
-tabela = pd.read_csv("advertising.csv", sep=",")
+tabela = pd.read_csv('c:/Users/user/Documents/python_automations/read_csv/data/advertising.csv')
 
 # Calcula o total gasto em cada meio de propaganda e vendas, somando os valores das respectivas colunas:
 valor_gasto_tv = round(tabela["TV"].sum(), 2)
